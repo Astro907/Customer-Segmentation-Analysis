@@ -1,0 +1,10 @@
+,CustomerID,Recency,Frequency,Monetary,Monetary
+,count,mean,mean,mean,sum
+Segment,,,,,
+At Risk,213,150.99,2.38,1497.36,318938.25
+Champions,957,12.82,11.12,6051.87,5791640.74
+Lost,1220,213.51,1.24,463.77,565797.14
+Loyal Customers,778,73.04,5.01,1706.03,1327290.83
+New Customers,319,18.52,1.24,455.23,145219.74
+Others,164,53.91,1.0,419.15,68740.7
+Potential Loyalist,687,36.3,2.05,974.65,669581.49
