@@ -99,3 +99,9 @@ Each dimension scored 1-5, combined into customer segments.
 * Track conversion rates and segment movement over time
 * Analyze product preferences within each segment
 * Implement automated email campaigns based on RFM scores
+
+**Author:** Anshul Pande
+
+**Date:** November 2025 
+
+**Contact:** LinkedIn- https://www.linkedin.com/in/anshul-pande-9b33632a4/?trk=opento_sprofile_goalscard
