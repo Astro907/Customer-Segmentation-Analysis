@@ -104,4 +104,4 @@ Each dimension scored 1-5, combined into customer segments.
 
 **Date:** November 2025 
 
-**Contact:** LinkedIn- https://www.linkedin.com/in/anshul-pande-9b33632a4/?trk=opento_sprofile_goalscard
+**Contact:** https://www.linkedin.com/in/anshul-pande-9b33632a4/
